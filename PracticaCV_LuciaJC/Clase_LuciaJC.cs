@@ -8,5 +8,16 @@ namespace PracticaCV_LuciaJC
 {
     internal class Clase_LuciaJC
     {
+        //CONSTANTES
+
+        //MIEMBROS PRIVADOS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+
+        //METODOS PUBLICOS
+
+        //METODOS PRIVADOS
     }
 }
