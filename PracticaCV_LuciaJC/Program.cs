@@ -1,4 +1,6 @@
-﻿namespace PracticaCV_LuciaJC
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PracticaCV_LuciaJC
 {
     internal class Program
     {
@@ -13,6 +15,8 @@
             //PROCESO
 
             //SALIDA
+            Console.WriteLine("Mi nombre es: LuciaJC");
+
         }
     }
 }
